@@ -18,7 +18,6 @@
 
 ```text
 ...
-```
 .
 ├── train.py                # 训练主程序
 ├── evaluate.py            # 模型评估
