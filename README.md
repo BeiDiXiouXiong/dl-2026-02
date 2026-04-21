@@ -15,16 +15,16 @@
 ---
 
 ## 📂 项目结构
-，，，
+
+```
 .
-├── train.py # 训练主程序
-├── evaluate.py # 模型评估
-├── models.py # 模型定义
-├── checkpoints/ # 保存最优模型
-├── outputs/ # 输出结果（图片/曲线）
-│ ├── samples.png
-│ ├── loss_curve.png
-│ └── acc_curve.png
-├── experiment_report.md # 实验报告
-└── README.md # 项目说明
-，，，
+├── train.py                # 训练主程序
+├── evaluate.py            # 模型评估
+├── models.py              # 模型定义
+├── checkpoints/           # 保存最优模型
+├── outputs/               # 输出结果（图片/曲线）
+│   ├── samples.png
+│   ├── loss_curve.png
+│   └── acc_curve.png
+├── experiment_report.md   # 实验报告
+└── README.md              # 项目说明
