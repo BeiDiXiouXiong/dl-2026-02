@@ -16,6 +16,8 @@
 
 ## 📂 项目结构
 
+```text
+...
 ```
 .
 ├── train.py                # 训练主程序
@@ -28,3 +30,6 @@
 │   └── acc_curve.png
 ├── experiment_report.md   # 实验报告
 └── README.md              # 项目说明
+![Samples](outputs/samples.png)
+![Loss Curve](outputs/loss_curve.png)
+![Accuracy Curve](outputs/acc_curve.png)
