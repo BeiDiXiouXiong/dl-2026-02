@@ -30,5 +30,4 @@
 └── README.md              # 项目说明
 ```
 ![Samples](outputs/samples.png)
-![Loss Curve](outputs/loss_curve.png)
-![Accuracy Curve](outputs/acc_curve.png)
+
