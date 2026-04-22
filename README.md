@@ -50,6 +50,9 @@ numpy==1.24.3
 - 训练曲线：outputs/loss_curve.png（损失逐渐下降）、outputs/acc_curve.png（准确率逐渐上升）
 - 错误样本：outputs/wrong_samples.png（5张错例，标注真实标签与预测标签）
 
+- ## 训练集样本预览
+- ![训练集样本](outputs/samples.png)
+
 ## 备注
 - 支持 CPU/GPU 自动适配，有NVIDIA显卡时自动使用CUDA加速
 - 模型为SimpleCNN，结构简单可运行，不追求SOTA，重点保证训练流程完整
