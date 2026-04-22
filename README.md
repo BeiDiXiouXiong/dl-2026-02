@@ -53,6 +53,10 @@ numpy==1.24.3
 - ## 训练集样本预览
 - ![训练集样本](outputs/samples.png)
 
+## 训练损失曲线图
+
+![训练损失曲线](outputs/loss_curve.png)
+
 ## 备注
 - 支持 CPU/GPU 自动适配，有NVIDIA显卡时自动使用CUDA加速
 - 模型为SimpleCNN，结构简单可运行，不追求SOTA，重点保证训练流程完整
